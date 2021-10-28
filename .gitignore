@@ -1,0 +1,5 @@
+.pycharm/*
+.idea/*
+rms-backend/.idea/*
+rms-backend/.pycharm/*
+rms-backend/venv/*
