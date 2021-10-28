@@ -1,1 +1,3 @@
-# rms
+# RMS
+
+> Revenues Management System

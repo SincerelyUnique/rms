@@ -1,4 +1,4 @@
-# rms-backend
+# RMS Backend
 
 > For revenue and expense management.
 
